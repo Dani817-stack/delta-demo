@@ -1,2 +1,2 @@
 # delta-demo
-this is aur first git&amp;github demo class
+this is aur first git&amp;github demo class.
